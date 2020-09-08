@@ -24,3 +24,8 @@ Devin Case-Ruchala. "State-Bank Nexus: Political Economy of State Bank Formation
 
 + Lab Instructor for POLI 783: Probability and Statistics (Fall 2019 & 2020)
 + Teaching Assistant for POLI 150: Intro to World Politics (Fall 2017, Spring 2018 & 2019) 
+
+## Education
+
++ MA in Political Science (International Relations), University of North Carolina at Chapel Hill (2019)
++ BS in Business Economics & Public Policy Analysis, Indiana University (2015)
